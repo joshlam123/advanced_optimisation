@@ -1,0 +1,39 @@
+id,time,hotel,hodel_corrected,region,type,cost,location,type
+1,60,Mandarin Orchard Singapore,"""Mandarin Orchard Singapore""",C,HOTEL,0,-,Hotel
+2,60,Jamie's Italian,"""Jamie's Italian""",C,DINING,0,-,Meal
+3,60,Odette,"""Odette""",C,DINING,0,-,Meal
+4,60,Timbre+,"""Timbre+""",C,DINING,0,-,Meal
+5,60,Simpang Bedok,"""Simpang Bedok""",E,DINING,0,-,Meal
+6,60,Tian Tian Hainanese Chicken Rice Bedok,"""Tian Tian Hainanese Chicken Rice Bedok""",E,DINING,0,-,Meal
+7,60,Orchid Live Seafood,"""Orchid Live Seafood""",N,DINING,0,-,Meal
+8,60,Chomp Chomp Food Centre,"""Chomp Chomp Food Centre""",O,DINING,0,-,Meal
+9,60,Punggol Nasi lemak,"""Punggol Nasi lemak""",O,DINING,0,-,Meal
+10,60,Buey Tahan See-Food CCK,"""Buey Tahan See-Food CCK""",W,DINING,0,-,Meal
+11,30,Miam Miam French & Japanese Cafe Kitchen,"""Miam Miam French & Japanese Cafe Kitchen""",W,DINING,0,-,Meal
+12,30,1-Altitude,"""1-Altitude""",C,ATTRACTIONS,40,Indoor,Food
+13,30,ArtScience Museum,"""ArtScience Museum""",C,ATTRACTIONS,30,Indoor,Art museum
+14,30,Fort Canning Art Centre,"""Fort Canning Art Centre""",C,ATTRACTIONS,30,Indoor,Art museum
+15,30,Gardens by the bay,"""Gardens by the bay""",C,ATTRACTIONS,20,Indoor,Flowers
+16,30,Jewel Changi Airport,"""Jewel Changi Airport""",E,ATTRACTIONS,20,Indoor,Food
+17,30,Yunomori Onsena & Spa,"""Yunomori Onsena & Spa""",E,ATTRACTIONS,99,Indoor,Play
+18,30,River Safari,"""River Safari""",N,ATTRACTIONS,41,Indoor,Wildlife
+19,30,Science Centre Singapore,"""Science Centre Singapore""",W,ATTRACTIONS,12,Indoor,Science museum
+20,30,Singapore Discovery Centre,"""Singapore Discovery Centre""",W,ATTRACTIONS,15,Indoor,Science museum
+21,30,The Rink,"""The Rink""",W,ATTRACTIONS,22,Indoor,Play
+22,30,Botanic Gardens,"""Botanic Gardens""",C,ATTRACTIONS,5,Outdoor,Flowers
+23,30,Haw Par Villa,"""Haw Par Villa""",C,ATTRACTIONS,10,Outdoor,Art museum
+24,30,Universal Studios Singapore,"""Universal Studios Singapore""",C,ATTRACTIONS,81,Outdoor,Play
+25,30,Pulau Ubin,"""Pulau Ubin""",E,ATTRACTIONS,10,Outdoor,Island
+26,30,Wild Wild Wet,"""Wild Wild Wet""",E,ATTRACTIONS,32,Outdoor,Play
+27,30,Night Safari,"""Night Safari""",N,ATTRACTIONS,50,Outdoor,Wildlife
+28,30,Singapore Zoo,"""Sngapore Zoo""",N,ATTRACTIONS,40,Outdoor,Wildlife
+29,30,Sungei Buloh Wetland Reserve,"""Sungei Buloh Wetland Reserve""",N,ATTRACTIONS,0,Outdoor,Island
+30,30,Coney Island,"""Coney Island""",O,ATTRACTIONS,15,Outdoor,Island
+31,30,Punggol Waterway Park,"""Punggol Waterway Park""",O,ATTRACTIONS,0,Outdoor,Park
+32,30,Chinese Garden,"""Chinese Garden""",W,ATTRACTIONS,5,Outdoor,Park
+33,30,Jurong Bird Park,"""Jurong Bird Park""",W,ATTRACTIONS,35,Outdoor,Wildlife
+34,0,East Coast Park,"""East Coast Park""",E,ATTRACTIONS,0,Outdoor,Park
+35,0,Oasia Residence Singapore,Oasia Residence Singapore,W,HOTEL,0,-,Hotel
+36,0,Crowne Plaza Hotel,Crowne Plaza Hotel @Changi,E,HOTEL,0,-,Hotel
+37,0,Orchid Country Club Singapore,Orchid Country Club,N,HOTEL,0,-,Hotel
+38,0,Hilton Garden Inn Singapore,Hilton Garden Inn Singapore Serangoon,O,HOTEL,0,-,Hotel
